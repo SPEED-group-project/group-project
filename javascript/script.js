@@ -12,7 +12,7 @@ if (localStorage.getItem("roomlist") == null) {
 				indate:"",
 				outdate:"",
 				mealorder:"",
-				Price:"",
+				Price:0,
 				roomStatus:"",
 				roomType:"King"
 			},
@@ -22,7 +22,7 @@ if (localStorage.getItem("roomlist") == null) {
 				indate:"",
 				outdate:"",
 				mealorder:"",
-				Price:"",
+				Price:0,
 				roomStatus:"",
 				roomType:"King"
 			},
@@ -32,7 +32,7 @@ if (localStorage.getItem("roomlist") == null) {
 				indate:"",
 				outdate:"",
 				mealorder:"",
-				Price:"",
+				Price:0,
 				RoomStatus:"",
 				roomType:"Double"
 			},
@@ -42,7 +42,7 @@ if (localStorage.getItem("roomlist") == null) {
 				indate:"",
 				outdate:"",
 				mealorder:"",
-				Price:"",
+				Price:0,
 				RoomStatus:"",
 				roomType:"Double"
 			},
@@ -52,7 +52,7 @@ if (localStorage.getItem("roomlist") == null) {
 				indate:"",
 				outdate:"",
 				mealorder:"",
-				Price:"",
+				Price:0,
 				RoomStatus:"",
 				roomType:"Double"
 			}

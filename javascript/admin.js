@@ -297,7 +297,7 @@ function createRoom()
             indate:"",
             outdate:"",
             mealorder:"",
-            Price:"",
+            Price:0,
             roomStatus:"",
             roomType:"King"
         };
@@ -314,7 +314,7 @@ function createRoom()
             indate:"",
             outdate:"",
             mealorder:"",
-            Price:"",
+            Price:0,
             roomStatus:"",
             roomType:"Double"
         };
